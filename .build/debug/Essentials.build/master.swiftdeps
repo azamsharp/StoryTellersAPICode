@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "b29cb3c59202f8b775c397665439d8b3"
+build_time: [534615656, 340289000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/Essentials/ByteStream.swift": [534390621, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/Essentials/Helpers.swift": [534390621, 0]

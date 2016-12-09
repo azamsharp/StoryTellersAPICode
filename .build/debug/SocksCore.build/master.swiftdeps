@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "5b7c02e4ee27b54934a4b98b1d373099"
+build_time: [534615629, 615293000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/Address+C.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/Address.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/Bytes.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/Conversions.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/Error.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/FDSet.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/InternetSocket.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/Pipe.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/Select.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/Socket.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/SocketOptions+Deprecated.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/SocketOptions.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/TCPSocket.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/Types.swift": [534390643, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Socks-1.2.0/Sources/SocksCore/UDPSocket.swift": [534390643, 0]

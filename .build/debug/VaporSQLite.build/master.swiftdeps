@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "6b81a408ade0d876a4b690f6e9f00797"
+build_time: [534615688, 917361000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/VaporSQLite-1.1.0/Sources/VaporSQLite/Provider.swift": [534390653, 0]

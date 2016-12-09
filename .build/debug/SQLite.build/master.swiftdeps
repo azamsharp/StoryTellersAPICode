@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "0a937b29e57ac385da5eaac0a6289a84"
+build_time: [534615657, 321280000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/SQLite-1.0.2/Sources/SQLite/SQLite.swift": [534390656, 0]

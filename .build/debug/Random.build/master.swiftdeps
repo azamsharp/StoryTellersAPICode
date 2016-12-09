@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "79b3cf52c91066e72f5ec9e4d3a057c6"
+build_time: [534615658, 893775000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/Random/CryptoRandom.swift": [534390621, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/Random/Random.swift": [534390621, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/Random/URandom.swift": [534390621, 0]

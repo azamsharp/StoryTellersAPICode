@@ -1,0 +1,405 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Genre"
+- "Story"
+provides-nominal:
+- "V3App5Genre"
+- "V3App5Story"
+provides-member:
+- ["V3App5Genre", ""]
+- ["V3App5Story", ""]
+- ["V3App5Genre", "init"]
+- ["V3App5Story", "init"]
+provides-dynamic-lookup:
+depends-top-level:
+- "Int"
+- !private "Dictionary"
+- "NodeRepresentable"
+- "AssignmentPrecedence"
+- "Story"
+- "Genre"
+- "Context"
+- "Node"
+- !private "StringLiteralType"
+- "String"
+depends-member:
+- !private ["Ps9AnyObject", "init"]
+- !private ["Sa", "deinit"]
+- !private ["P4HTTP17BodyRepresentable", "init"]
+- !private ["P4Core16BytesConvertible", "init"]
+- !private ["P4Core18BytesInitializable", "init"]
+- !private ["P4Core18BytesRepresentable", "init"]
+- !private ["Ps7CVarArg", "Key"]
+- !private ["Ps7CVarArg", "Value"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps10Collection", "Key"]
+- !private ["Ps10Collection", "Value"]
+- !private ["Ps10Comparable", "init"]
+- !private ["P4Node7Context", "Key"]
+- !private ["P4Node7Context", "Value"]
+- !private ["P4Node7Context", "init"]
+- !private ["P4Node7Context", "int"]
+- !private ["P4Node7Context", "string"]
+- !private ["P4Node7Context", "subscript"]
+- !private ["P5Vapor9Countable", "Key"]
+- !private ["P5Vapor9Countable", "Value"]
+- !private ["P5Vapor9Countable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "Key"]
+- !private ["Ps28CustomDebugStringConvertible", "Value"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "Key"]
+- !private ["Ps17CustomReflectable", "Value"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Key"]
+- !private ["Ps23CustomStringConvertible", "Value"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Vs10Dictionary", "Key"]
+- !private ["Vs10Dictionary", "Value"]
+- ["Vs10Dictionary", "deinit"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "int"]
+- !private ["Ps9Equatable", "string"]
+- !private ["Ps9Equatable", "subscript"]
+- !private ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "int"]
+- !private ["Ps25ExpressibleByArrayLiteral", "string"]
+- !private ["Ps25ExpressibleByArrayLiteral", "subscript"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "init"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "int"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "string"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "subscript"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Key"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Value"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "int"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "string"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "subscript"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "int"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "string"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "subscript"]
+- !private ["Ps25ExpressibleByFloatLiteral", "init"]
+- !private ["Ps25ExpressibleByFloatLiteral", "int"]
+- !private ["Ps25ExpressibleByFloatLiteral", "string"]
+- !private ["Ps25ExpressibleByFloatLiteral", "subscript"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "int"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "string"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "subscript"]
+- !private ["Ps23ExpressibleByNilLiteral", "Key"]
+- !private ["Ps23ExpressibleByNilLiteral", "init"]
+- !private ["Ps23ExpressibleByNilLiteral", "int"]
+- !private ["Ps23ExpressibleByNilLiteral", "string"]
+- !private ["Ps23ExpressibleByNilLiteral", "subscript"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "int"]
+- !private ["Ps26ExpressibleByStringLiteral", "string"]
+- !private ["Ps26ExpressibleByStringLiteral", "subscript"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "int"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "string"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "subscript"]
+- !private ["P4Core11Extractable", "Key"]
+- ["V3App5Genre", "Context"]
+- ["V3App5Genre", "Int"]
+- ["V3App5Genre", "Node"]
+- ["V3App5Genre", "String"]
+- ["V3App5Genre", "deinit"]
+- ["V3App5Genre", "detail"]
+- ["V3App5Genre", "id"]
+- ["V3App5Genre", "init"]
+- ["V3App5Genre", "makeNode"]
+- ["V3App5Genre", "numberOfStories"]
+- ["V3App5Genre", "title"]
+- !private ["Ps8Hashable", "init"]
+- ["SQ", "deinit"]
+- !private ["Ps9Indexable", "Key"]
+- !private ["Ps9Indexable", "Value"]
+- !private ["Ps13IndexableBase", "Key"]
+- !private ["Ps13IndexableBase", "Value"]
+- !private ["Si", "deinit"]
+- !private ["P4HTTP13KeyAccessible", "Key"]
+- !private ["P4HTTP13KeyAccessible", "Value"]
+- !private ["P4Node13KeyAccessible", "Key"]
+- !private ["P4Node13KeyAccessible", "Value"]
+- !private ["P8Settings13KeyAccessible", "Key"]
+- !private ["P8Settings13KeyAccessible", "Value"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "init"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["O4Node4Node", "deinit"]
+- !private ["O4Node4Node", "init"]
+- !private ["O4Node4Node", "int"]
+- !private ["O4Node4Node", "string"]
+- !private ["O4Node4Node", "subscript"]
+- !private ["P4Node10NodeBacked", "init"]
+- !private ["P4Node10NodeBacked", "int"]
+- !private ["P4Node10NodeBacked", "string"]
+- !private ["P4Node10NodeBacked", "subscript"]
+- !private ["P4Node15NodeConvertible", "init"]
+- !private ["P4Node15NodeConvertible", "int"]
+- !private ["P4Node15NodeConvertible", "string"]
+- !private ["P4Node15NodeConvertible", "subscript"]
+- !private ["P4Node17NodeInitializable", "init"]
+- !private ["P4Node17NodeInitializable", "int"]
+- !private ["P4Node17NodeInitializable", "string"]
+- !private ["P4Node17NodeInitializable", "subscript"]
+- !private ["P4Node17NodeRepresentable", "Node"]
+- !private ["P4Node17NodeRepresentable", "Value"]
+- !private ["P4Node17NodeRepresentable", "abstract"]
+- !private ["P4Node17NodeRepresentable", "deinit"]
+- !private ["P4Node17NodeRepresentable", "detail"]
+- !private ["P4Node17NodeRepresentable", "id"]
+- !private ["P4Node17NodeRepresentable", "init"]
+- !private ["P4Node17NodeRepresentable", "int"]
+- ["P4Node17NodeRepresentable", "makeNode"]
+- !private ["P4Node17NodeRepresentable", "numberOfStories"]
+- !private ["P4Node17NodeRepresentable", "string"]
+- !private ["P4Node17NodeRepresentable", "subscript"]
+- !private ["P4Node17NodeRepresentable", "title"]
+- !private ["P4Node17NodeRepresentable", "userId"]
+- ["P4Node17NodeRepresentable", ""]
+- !private ["Sq", "Key"]
+- ["Sq", "deinit"]
+- !private ["P13PathIndexable9PathIndex", "deinit"]
+- !private ["P13PathIndexable9PathIndex", "init"]
+- !private ["P13PathIndexable13PathIndexable", "init"]
+- !private ["P13PathIndexable13PathIndexable", "int"]
+- !private ["P13PathIndexable13PathIndexable", "string"]
+- !private ["P13PathIndexable13PathIndexable", "subscript"]
+- !private ["P11Polymorphic11Polymorphic", "init"]
+- !private ["P11Polymorphic11Polymorphic", "int"]
+- !private ["P11Polymorphic11Polymorphic", "string"]
+- !private ["P11Polymorphic11Polymorphic", "subscript"]
+- !private ["P5Vapor24PolymorphicInitializable", "init"]
+- !private ["P5Vapor23RequestContentSubscript", "init"]
+- !private ["P4HTTP21ResponseRepresentable", "init"]
+- !private ["Ps8Sequence", "Key"]
+- !private ["Ps8Sequence", "Value"]
+- ["V3App5Story", "Context"]
+- ["V3App5Story", "Int"]
+- ["V3App5Story", "Node"]
+- ["V3App5Story", "String"]
+- ["V3App5Story", "abstract"]
+- ["V3App5Story", "deinit"]
+- ["V3App5Story", "detail"]
+- ["V3App5Story", "genreId"]
+- ["V3App5Story", "id"]
+- ["V3App5Story", "init"]
+- ["V3App5Story", "makeNode"]
+- ["V3App5Story", "title"]
+- ["V3App5Story", "userId"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["P15TypeSafeRouting19StringInitializable", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["P5Vapor11Validatable", "Key"]
+- !private ["P5Vapor11Validatable", "Value"]
+- !private ["P5Vapor11Validatable", "init"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "Key"]
+- !private ["Ps21_ObjectiveCBridgeable", "Value"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- !private "Sa"
+- !private "P4HTTP17BodyRepresentable"
+- !private "P4Core16BytesConvertible"
+- !private "P4Core18BytesInitializable"
+- !private "P4Core18BytesRepresentable"
+- !private "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- !private "P4Node7Context"
+- !private "P5Vapor9Countable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "Vs10Dictionary"
+- !private "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps23ExpressibleByNilLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "P4Core11Extractable"
+- "V3App5Genre"
+- !private "Ps8Hashable"
+- "SQ"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Si"
+- !private "P4HTTP13KeyAccessible"
+- !private "P4Node13KeyAccessible"
+- !private "P8Settings13KeyAccessible"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "O4Node4Node"
+- !private "P4Node10NodeBacked"
+- !private "P4Node15NodeConvertible"
+- !private "P4Node17NodeInitializable"
+- "P4Node17NodeRepresentable"
+- "Sq"
+- !private "P13PathIndexable9PathIndex"
+- !private "P13PathIndexable13PathIndexable"
+- !private "P11Polymorphic11Polymorphic"
+- !private "P5Vapor24PolymorphicInitializable"
+- !private "P5Vapor23RequestContentSubscript"
+- !private "P4HTTP21ResponseRepresentable"
+- !private "Ps8Sequence"
+- "V3App5Story"
+- "SS"
+- !private "P15TypeSafeRouting19StringInitializable"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "P5Vapor11Validatable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Vapor.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Fluent.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Node.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/PathIndexable.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Polymorphic.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cipher.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/whrlpool.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ui_compat.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/txt_db.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ts.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/tls.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ripemd.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rc4.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rc2.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rand.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/poly1305.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pkcs12.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/opensslfeatures.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/opensslconf.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/x509v3.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ocsp.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/modes.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/md5.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/md4.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/krb5_asn.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/idea.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/gost.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/err.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ui.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/engine.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/srtp.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl23.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/tls1.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl3.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ssl2.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pem2.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pkcs7.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/x509_vfy.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/sha.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/rsa.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ecdh.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ecdsa.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ec.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/x509.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/pem.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/hmac.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dtls1.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dso.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dsa.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/dh.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/des.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/conf_api.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/lhash.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/conf.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/crypto.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/comp.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/cms.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/obj_mac.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/objects.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/evp.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/cmac.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/chacha.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/cast.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/camellia.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/buffer.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/blowfish.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/asn1t.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/asn1_mac.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/bn.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/ossl_typ.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/opensslv.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/safestack.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/stack.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/bio.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/asn1.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/aes.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/CLibreSSL.h"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/module.modulemap"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Core.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/libc.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Essentials.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Console.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/HMAC.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/HTTP.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Transport.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/SocksCore.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/TLS.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/URI.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/HTTPRouting.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Routing.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Hash.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Random.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/JSON.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Jay.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Leaf.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Sessions.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cookies.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Settings.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/TypeSafeRouting.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/WebSockets.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/VaporSQLite.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/FluentSQLite.swiftmodule"
+- "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/SQLite.swiftmodule"
+interface-hash: "1e8a0494f17eb1eb3eb7430918c29cd5"

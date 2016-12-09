@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/PathIndexable.build/master.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable+Subscripting.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/PathIndexable.build/PathIndexable+Subscripting.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/PathIndexable.build/PathIndexable+Subscripting.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/PathIndexable.build/PathIndexable+Subscripting~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/PathIndexable.build/PathIndexable+Subscripting.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/PathIndexable.build/PathIndexable.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/PathIndexable.build/PathIndexable.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/PathIndexable.build/PathIndexable~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/PathIndexable.build/PathIndexable.swiftdeps"
+  }
+}

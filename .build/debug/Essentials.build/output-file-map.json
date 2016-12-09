@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Essentials.build/master.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/Essentials/ByteStream.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Essentials.build/ByteStream.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Essentials.build/ByteStream.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Essentials.build/ByteStream~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Essentials.build/ByteStream.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/Essentials/Helpers.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Essentials.build/Helpers.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Essentials.build/Helpers.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Essentials.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Essentials.build/Helpers.swiftdeps"
+  }
+}

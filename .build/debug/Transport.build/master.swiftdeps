@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "936073b70d6c5df61cbec39151877b37"
+build_time: [534615665, 677952000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/Transport/Streams/FoundationStream.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/Transport/Streams/Socks+Stream.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/Transport/Streams/Stream.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/Transport/Streams/StreamBuffer.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/Transport/Streams/Watchable.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/Transport/TransferProtocols/TransferProtocols.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/Transport/Streams/ProgramStream/ClientStream.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/Transport/Streams/ProgramStream/ProgramStream.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/Transport/Streams/ProgramStream/ServerStream.swift": [534390637, 0]

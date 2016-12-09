@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "6a5e705e443d42dd215ba139051dec07"
+build_time: [534615663, 442573000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/Hash/Hash.swift": [534390621, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/Hash/Method.swift": [534390621, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/Hash/Random.swift": [534390621, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "274f66e9f24d26c1300199e49bd638c2"
+build_time: [534615663, 442597000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/HMAC/HMAC.swift": [534390621, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Crypto-1.0.1/Sources/HMAC/Method.swift": [534390621, 0]

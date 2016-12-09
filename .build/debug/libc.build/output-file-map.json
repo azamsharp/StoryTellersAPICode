@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/libc.build/master.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Core-1.0.0/Sources/libc/libc.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/libc.build/libc.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/libc.build/libc.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/libc.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/libc.build/libc.swiftdeps"
+  }
+}

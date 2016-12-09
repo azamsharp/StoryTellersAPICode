@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D808B232C3097B67EF31A0077807A5AF39481CCC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : 9223372036854775807,
+    "D808B232C3097B67EF31A0077807A5AF39481CCC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AFAFA235-CBB5-41FD-9991-8D11A2D4F48F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : "StoryTellers\/StoryTellersAPI\/Packages\/Jay-1.0.0\/",
+    "D808B232C3097B67EF31A0077807A5AF39481CCC" : "StoryTellers\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StoryTellersAPI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "StoryTellersAPI\/StoryTellersAPI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DanToml\/Jay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/azamsharp\/storytellers.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D808B232C3097B67EF31A0077807A5AF39481CCC"
+    }
+  ]
+}

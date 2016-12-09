@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "ece3d18a0776c1ad460050c2fe8480cf"
+build_time: [534615629, 691794000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/BCrypt.swift": [534390649, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/Random.swift": [534390649, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Turnstile-1.0.3/Sources/TurnstileCrypto/URandom.swift": [534390649, 0]

@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/master.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cache/CacheProtocol.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/CacheProtocol.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/CacheProtocol.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/CacheProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/CacheProtocol.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cache/FluentCache.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/FluentCache.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/FluentCache.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/FluentCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/FluentCache.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cache/MemoryCache.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/MemoryCache.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/MemoryCache.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/MemoryCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/Cache.build/MemoryCache.swiftdeps"
+  }
+}

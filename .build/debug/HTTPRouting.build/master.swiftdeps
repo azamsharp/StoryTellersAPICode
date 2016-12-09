@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "c44fe3aa8ff572c86dd298cf5b53e3c6"
+build_time: [534615675, 411896000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Routing-1.0.1/Sources/HTTPRouting/Request+Routing.swift": [534390652, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Routing-1.0.1/Sources/HTTPRouting/RouteBuilder+HTTP.swift": [534390652, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Routing-1.0.1/Sources/HTTPRouting/Router+HTTP.swift": [534390652, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Routing-1.0.1/Sources/HTTPRouting/Routing+HTTP.swift": [534390652, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Routing-1.0.1/Sources/HTTPRouting/Utilities.swift": [534390652, 0]

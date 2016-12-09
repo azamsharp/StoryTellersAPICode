@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "b909afdc081ce3b4c26d80272cf653bd"
+build_time: [534615675, 833414000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Routing-1.0.1/Sources/TypeSafeRouting/Generated.swift": [534390652, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Routing-1.0.1/Sources/TypeSafeRouting/StringInitializable.swift": [534390652, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Routing-1.0.1/Sources/TypeSafeRouting/TypeSafeRoutingError.swift": [534390652, 0]

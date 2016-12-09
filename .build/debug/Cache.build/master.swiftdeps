@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "149fb9ab6418972422f068472ec7c064"
+build_time: [534615677, 269120000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cache/CacheProtocol.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cache/FluentCache.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cache/MemoryCache.swift": [534390617, 0]

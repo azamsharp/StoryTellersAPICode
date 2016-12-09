@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/master.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Sources/App/DataAccess.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/DataAccess.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/DataAccess.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/DataAccess~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/DataAccess.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Sources/App/Extensions.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/Extensions.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/Extensions.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/Extensions.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Sources/App/main.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/main.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/main.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/main.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Sources/App/Models.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/Models.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/Models.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/Models.swiftdeps"
+  },
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Sources/App/StoryTellersViewController.swift": {
+    "dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/StoryTellersViewController.d",
+    "object": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/StoryTellersViewController.swift.o",
+    "swiftmodule": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/StoryTellersViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/.build/debug/App.build/StoryTellersViewController.swiftdeps"
+  }
+}

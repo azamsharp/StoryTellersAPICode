@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "01f9cbd66e1b96e0f3b718d5f24ea46e"
+build_time: [534615656, 338019000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/JSON-1.0.2/Sources/JSON/JSON+Bytes.swift": [534390646, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/JSON-1.0.2/Sources/JSON/JSON+Equatable.swift": [534390646, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/JSON-1.0.2/Sources/JSON/JSON+Node.swift": [534390646, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/JSON-1.0.2/Sources/JSON/JSON+Parse.swift": [534390646, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/JSON-1.0.2/Sources/JSON/JSON+Serialize.swift": [534390646, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/JSON-1.0.2/Sources/JSON/JSON.swift": [534390646, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/JSON-1.0.2/Sources/JSON/JSONRepresentable.swift": [534390646, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/JSON-1.0.2/Sources/JSON/Sequence+Convertible.swift": [534390646, 0]

@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "12dc3ea38e2e59eed12f52499b35783f"
+build_time: [534615656, 337876000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/TLS-1.1.0/Sources/TLS/Certificates.swift": [534390641, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/TLS-1.1.0/Sources/TLS/Config.swift": [534390641, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/TLS-1.1.0/Sources/TLS/Context.swift": [534390641, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/TLS-1.1.0/Sources/TLS/Error.swift": [534390641, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/TLS-1.1.0/Sources/TLS/Mode.swift": [534390641, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/TLS-1.1.0/Sources/TLS/Socket.swift": [534390641, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/TLS-1.1.0/Sources/TLS/Utilities.swift": [534390641, 0]

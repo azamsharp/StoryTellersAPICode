@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "e79bfbd09aa444ca9619ae5dd97f4b9b"
+build_time: [534615665, 677977000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/URI/PercentDecoding.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/URI/Model/URI+Byte.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/URI/Model/URI+Modification.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/URI/Model/URI+Ports.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/URI/Model/URI+String.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/URI/Model/URI.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/URI/Parser/Parser+Components.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/URI/Parser/Parser+Public.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/URI/Parser/Parser+SubComponents.swift": [534390637, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Engine-1.3.2/Sources/URI/Parser/Parser.swift": [534390637, 0]

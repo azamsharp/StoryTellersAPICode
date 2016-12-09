@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "dd0dbdf915af8fb061056b2b8d4e8dac"
+build_time: [534615677, 269238000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cookies/Cookie+BytesConvertible.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cookies/Cookie+Parse.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cookies/Cookie+Serialize.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cookies/Cookie.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cookies/Cookies+BytesConvertible.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cookies/Cookies+Literal.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cookies/Cookies+Parse.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cookies/Cookies+Serialize.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cookies/Cookies.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cookies/Request+Cookies.swift": [534390617, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/Vapor-1.1.13/Sources/Cookies/Response+Cookies.swift": [534390617, 0]

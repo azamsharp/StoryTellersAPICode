@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "88df724b6ff509e99a6eca80a0989689"
+build_time: [534615689, 222004000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Sources/App/DataAccess.swift": [534543579, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Sources/App/Extensions.swift": [533859391, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Sources/App/main.swift": [534565037, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Sources/App/Models.swift": [534393118, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Sources/App/StoryTellersViewController.swift": [534565031, 0]

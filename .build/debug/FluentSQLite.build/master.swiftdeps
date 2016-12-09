@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "14c44296def3ade55c5453b449088b0f"
+build_time: [534615659, 80039000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/FluentSQLite-1.0.1/Sources/FluentSQLite/SQLiteDriver.swift": [534390654, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/FluentSQLite-1.0.1/Sources/FluentSQLite/SQLiteSerializer.swift": [534390654, 0]

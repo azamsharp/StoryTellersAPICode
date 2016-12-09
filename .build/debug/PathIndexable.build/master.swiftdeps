@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "427c000240093152a8d9e5fc40ac9e38"
+build_time: [534615629, 580750000]
+inputs:
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable+Subscripting.swift": [534390634, 0]
+  "/Users/mohammadazam/Documents/Projects/StoryTellersAPICode/StoryTellersAPI/Packages/PathIndexable-1.0.0/Sources/PathIndexable/PathIndexable.swift": [534390634, 0]
